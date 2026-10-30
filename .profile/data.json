@@ -1,6 +1,6 @@
 {
- "key": "3d35084c",
- "stars": 51,
+ "key": "bf1727fb",
+ "stars": 58,
  "contributions": 444,
  "repos": 95,
  "followers": 6,
@@ -154,7 +154,7 @@
    "url": "https://github.com/jhedev96/olp",
    "text": "OpenLocalPanel — multi-environment local operations panel (files, terminal, sites, db, cron, backup)",
    "fork": false,
-   "stars": 20,
+   "stars": 21,
    "language": "TypeScript",
    "topics": []
   },
@@ -202,6 +202,80 @@
    "stars": 2,
    "language": "Java",
    "topics": []
+  },
+  {
+   "name": "jhedev96",
+   "url": "https://github.com/jhedev96/jhedev96",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "node-modules-hunter",
+   "url": "https://github.com/jhedev96/node-modules-hunter",
+   "text": "Hunt down bloated node_modules folders across your machine — scan, measure, and clean them with one command (npm/pnpm/yarn/bun).",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "opencode-termux",
+   "url": "https://github.com/jhedev96/opencode-termux",
+   "text": "OpenCode for Android/Termux",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "firework-simulator",
+   "url": "https://github.com/jhedev96/firework-simulator",
+   "text": "An advanced, highly realistic, and feature-rich fireworks simulation built with HTML5 Canvas and JavaScript.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "firework-simulator",
+    "fireworks-animation",
+    "simulator"
+   ]
+  },
+  {
+   "name": "Aksatara",
+   "url": "https://github.com/jhedev96/Aksatara",
+   "text": "Aksatara adalah aplikasi sederhana untuk mentransliterasikan aksara latin ke aksara nusantara dan sebaliknya.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "aksara-jawa",
+    "aksara-nusantara",
+    "aksara-sunda",
+    "aksara-bali",
+    "aksara-batak",
+    "aksara-bugis",
+    "aksara-jawi",
+    "aksara-kawi",
+    "aksara-makasar",
+    "aksara-pegon"
+   ]
+  },
+  {
+   "name": "vroidhub-dl",
+   "url": "https://github.com/jhedev96/vroidhub-dl",
+   "text": "An automatic downloader and deobfuscator for VRoid Hub models into VRM files.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "vrm",
+    "vrma",
+    "vroid",
+    "vroidhub-downloader"
+   ]
   },
   {
    "name": "jscast-app",
@@ -264,21 +338,12 @@
    ]
   },
   {
-   "name": "jhedev96",
-   "url": "https://github.com/jhedev96/jhedev96",
-   "text": "My GitHub profile",
+   "name": "LaravelDrive-App",
+   "url": "https://github.com/jhedev96/LaravelDrive-App",
+   "text": "",
    "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "node-modules-hunter",
-   "url": "https://github.com/jhedev96/node-modules-hunter",
-   "text": "Hunt down bloated node_modules folders across your machine — scan, measure, and clean them with one command (npm/pnpm/yarn/bun).",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
+   "stars": 1,
+   "language": "PHP",
    "topics": []
   },
   {
@@ -315,15 +380,6 @@
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "opencode-termux",
-   "url": "https://github.com/jhedev96/opencode-termux",
-   "text": "OpenCode for Android/Termux",
-   "fork": true,
-   "stars": 0,
-   "language": "Shell",
    "topics": []
   },
   {
@@ -408,19 +464,6 @@
    "topics": []
   },
   {
-   "name": "firework-simulator",
-   "url": "https://github.com/jhedev96/firework-simulator",
-   "text": "An advanced, highly realistic, and feature-rich fireworks simulation built with HTML5 Canvas and JavaScript.",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": [
-    "firework-simulator",
-    "fireworks-animation",
-    "simulator"
-   ]
-  },
-  {
    "name": "claude-code",
    "url": "https://github.com/jhedev96/claude-code",
    "text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.",
@@ -438,26 +481,6 @@
    "language": "HTML",
    "topics": [
     "rupiah"
-   ]
-  },
-  {
-   "name": "Aksatara",
-   "url": "https://github.com/jhedev96/Aksatara",
-   "text": "Aksatara adalah aplikasi sederhana untuk mentransliterasikan aksara latin ke aksara nusantara dan sebaliknya.",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": [
-    "aksara-jawa",
-    "aksara-nusantara",
-    "aksara-sunda",
-    "aksara-bali",
-    "aksara-batak",
-    "aksara-bugis",
-    "aksara-jawi",
-    "aksara-kawi",
-    "aksara-makasar",
-    "aksara-pegon"
    ]
   },
   {
@@ -495,20 +518,6 @@
    "stars": 0,
    "language": "TypeScript",
    "topics": []
-  },
-  {
-   "name": "vroidhub-dl",
-   "url": "https://github.com/jhedev96/vroidhub-dl",
-   "text": "An automatic downloader and deobfuscator for VRoid Hub models into VRM files.",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": [
-    "vrm",
-    "vrma",
-    "vroid",
-    "vroidhub-downloader"
-   ]
   },
   {
    "name": "web-fonts-repository",
@@ -1040,15 +1049,6 @@
    "fork": false,
    "stars": 0,
    "language": "Batchfile",
-   "topics": []
-  },
-  {
-   "name": "LaravelDrive-App",
-   "url": "https://github.com/jhedev96/LaravelDrive-App",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "PHP",
    "topics": []
   },
   {

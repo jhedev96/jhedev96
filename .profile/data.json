@@ -1,0 +1,1064 @@
+{
+ "key": "3d35084c",
+ "stars": 51,
+ "contributions": 444,
+ "repos": 95,
+ "followers": 6,
+ "languages": [
+  [
+   "Smali",
+   96035022
+  ],
+  [
+   "Java",
+   37174770
+  ],
+  [
+   "JavaScript",
+   8648121
+  ],
+  [
+   "HTML",
+   2612414
+  ],
+  [
+   "TypeScript",
+   1681128
+  ],
+  [
+   "CSS",
+   532370
+  ],
+  [
+   "PHP",
+   474948
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 15,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 100,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 50,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 30,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "olp",
+   "url": "https://github.com/jhedev96/olp",
+   "text": "OpenLocalPanel — multi-environment local operations panel (files, terminal, sites, db, cron, backup)",
+   "fork": false,
+   "stars": 20,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "JS-Hero",
+   "url": "https://github.com/jhedev96/JS-Hero",
+   "text": "JavaScript Guitar Hero",
+   "fork": false,
+   "stars": 17,
+   "language": "JavaScript",
+   "topics": [
+    "guitar-hero",
+    "threejs",
+    "html5-game",
+    "webgame",
+    "webgl"
+   ]
+  },
+  {
+   "name": "anime",
+   "url": "https://github.com/jhedev96/anime",
+   "text": "Anime Streaming Template",
+   "fork": false,
+   "stars": 5,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "3D-Maze-Labirin-HTML5-Game",
+   "url": "https://github.com/jhedev96/3D-Maze-Labirin-HTML5-Game",
+   "text": "3D Maze Labirin HTML5 Game",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "html5-game",
+    "webgame"
+   ]
+  },
+  {
+   "name": "DroidPHP",
+   "url": "https://github.com/jhedev96/DroidPHP",
+   "text": "DroidPHP is an open-source Web Server for Android devices, allowing you to run PHP and MYSQL based appliation from your Android device.",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "jscast-app",
+   "url": "https://github.com/jhedev96/jscast-app",
+   "text": "🎥💻 Screen recorder with some options like adding your webcam in a circle (or in a square) that you can move around. Build with Electron.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "electron-app",
+    "screencast",
+    "screenrecorder",
+    "webcam"
+   ]
+  },
+  {
+   "name": "metronic-8.2.0",
+   "url": "https://github.com/jhedev96/metronic-8.2.0",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "avee-music-player-reverse",
+   "url": "https://github.com/jhedev96/avee-music-player-reverse",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "AveeOpenPlayer",
+   "url": "https://github.com/jhedev96/AveeOpenPlayer",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Naruto-Boruto-Dojutsu",
+   "url": "https://github.com/jhedev96/Naruto-Boruto-Dojutsu",
+   "text": "Dojutsu (Kekkai Genkai) that exists in the Naruto and Boruto universe, made only with HTML, CSS and a little JS.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": [
+    "css3",
+    "naruto",
+    "rinnegan",
+    "sharingan",
+    "byakugan",
+    "dojutsu",
+    "jougan",
+    "kekkai-genkai",
+    "rinnesharingan"
+   ]
+  },
+  {
+   "name": "jhedev96",
+   "url": "https://github.com/jhedev96/jhedev96",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "node-modules-hunter",
+   "url": "https://github.com/jhedev96/node-modules-hunter",
+   "text": "Hunt down bloated node_modules folders across your machine — scan, measure, and clean them with one command (npm/pnpm/yarn/bun).",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "termdroid",
+   "url": "https://github.com/jhedev96/termdroid",
+   "text": "Minimal terminal-only Android app running a real Ubuntu environment via proot — full terminal emulator, named sessions, themes. No root required.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "fresh-ideterm",
+   "url": "https://github.com/jhedev96/fresh-ideterm",
+   "text": "Terminal based IDE & text editor: easy, powerful and fast",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "gods-eye-view",
+   "url": "https://github.com/jhedev96/gods-eye-view",
+   "text": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "catatan-gaji",
+   "url": "https://github.com/jhedev96/catatan-gaji",
+   "text": "Salary Tracker",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "opencode-termux",
+   "url": "https://github.com/jhedev96/opencode-termux",
+   "text": "OpenCode for Android/Termux",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "tiny-container",
+   "url": "https://github.com/jhedev96/tiny-container",
+   "text": "Click-to-run debian 13 with desktop environment on android!",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Lune",
+   "url": "https://github.com/jhedev96/Lune",
+   "text": "Music player inspired by Material 3: Expressive",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Ventoid",
+   "url": "https://github.com/jhedev96/Ventoid",
+   "text": "Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "bedrock",
+   "url": "https://github.com/jhedev96/bedrock",
+   "text": "Bedrock is a CLI tool that bootstraps AI-ready project configurations by generating standardized rules, skills, and project context tailored to tools like Claude Code, Cursor, Antigravity, and Trae—so you can get consistent, instruction-driven AI behavior with a single command.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "lumina",
+   "url": "https://github.com/jhedev96/lumina",
+   "text": "Simple dark mode",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "nai",
+   "url": "https://github.com/jhedev96/nai",
+   "text": "An interactive CLI that makes installing dependencies easy — with first-class catalog support.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "howler.ts",
+   "url": "https://github.com/jhedev96/howler.ts",
+   "text": "Javascript audio library for the modern web.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "universal-git",
+   "url": "https://github.com/jhedev96/universal-git",
+   "text": "A pure JavaScript implementation of git for node and browsers!",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "bahasa.js",
+   "url": "https://github.com/jhedev96/bahasa.js",
+   "text": "Simple i18n",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "firework-simulator",
+   "url": "https://github.com/jhedev96/firework-simulator",
+   "text": "An advanced, highly realistic, and feature-rich fireworks simulation built with HTML5 Canvas and JavaScript.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "firework-simulator",
+    "fireworks-animation",
+    "simulator"
+   ]
+  },
+  {
+   "name": "claude-code",
+   "url": "https://github.com/jhedev96/claude-code",
+   "text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "rupiah",
+   "url": "https://github.com/jhedev96/rupiah",
+   "text": "Mengkonversi angka ke dalam format penulisan mata uang rupiah",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "rupiah"
+   ]
+  },
+  {
+   "name": "Aksatara",
+   "url": "https://github.com/jhedev96/Aksatara",
+   "text": "Aksatara adalah aplikasi sederhana untuk mentransliterasikan aksara latin ke aksara nusantara dan sebaliknya.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "aksara-jawa",
+    "aksara-nusantara",
+    "aksara-sunda",
+    "aksara-bali",
+    "aksara-batak",
+    "aksara-bugis",
+    "aksara-jawi",
+    "aksara-kawi",
+    "aksara-makasar",
+    "aksara-pegon"
+   ]
+  },
+  {
+   "name": "AksaraNusantara.js",
+   "url": "https://github.com/jhedev96/AksaraNusantara.js",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AksaraSunda.js",
+   "url": "https://github.com/jhedev96/AksaraSunda.js",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pluely",
+   "url": "https://github.com/jhedev96/pluely",
+   "text": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "virtual-assistent",
+   "url": "https://github.com/jhedev96/virtual-assistent",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "vroidhub-dl",
+   "url": "https://github.com/jhedev96/vroidhub-dl",
+   "text": "An automatic downloader and deobfuscator for VRoid Hub models into VRM files.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "vrm",
+    "vrma",
+    "vroid",
+    "vroidhub-downloader"
+   ]
+  },
+  {
+   "name": "web-fonts-repository",
+   "url": "https://github.com/jhedev96/web-fonts-repository",
+   "text": "A simple webfont hosting. Google Fonts alternative for your own fonts.",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Zero",
+   "url": "https://github.com/jhedev96/Zero",
+   "text": "Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "assault-fury",
+   "url": "https://github.com/jhedev96/assault-fury",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "asian-cup-soccer",
+   "url": "https://github.com/jhedev96/asian-cup-soccer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "army-driver",
+   "url": "https://github.com/jhedev96/army-driver",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "army-combat",
+   "url": "https://github.com/jhedev96/army-combat",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "armedforces-io",
+   "url": "https://github.com/jhedev96/armedforces-io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "arena-wars",
+   "url": "https://github.com/jhedev96/arena-wars",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "arena-shooter",
+   "url": "https://github.com/jhedev96/arena-shooter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "archer-hero",
+   "url": "https://github.com/jhedev96/archer-hero",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "arcade-car-drift",
+   "url": "https://github.com/jhedev96/arcade-car-drift",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "apocalypse-truck",
+   "url": "https://github.com/jhedev96/apocalypse-truck",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "among-impostor",
+   "url": "https://github.com/jhedev96/among-impostor",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "american-touchdown",
+   "url": "https://github.com/jhedev96/american-touchdown",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "alien-sky-invasion",
+   "url": "https://github.com/jhedev96/alien-sky-invasion",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "airplane-racer",
+   "url": "https://github.com/jhedev96/airplane-racer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "agent-smith",
+   "url": "https://github.com/jhedev96/agent-smith",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ado-cars-drifter",
+   "url": "https://github.com/jhedev96/ado-cars-drifter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "a-small-world-cup",
+   "url": "https://github.com/jhedev96/a-small-world-cup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "8-ball-pool-billiard",
+   "url": "https://github.com/jhedev96/8-ball-pool-billiard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "2048",
+   "url": "https://github.com/jhedev96/2048",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "2-player-crazy-racer",
+   "url": "https://github.com/jhedev96/2-player-crazy-racer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "12-minibattles",
+   "url": "https://github.com/jhedev96/12-minibattles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "stickman-gta-city",
+   "url": "https://github.com/jhedev96/stickman-gta-city",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Element",
+   "url": "https://github.com/jhedev96/Element",
+   "text": "Library JavaScript yang powerful dan tanpa dependensi untuk membangun antarmuka pengguna. Menawarkan API deklaratif, sintaks mirip JSX, komponen fungsional, sanitasi HTML yang kuat, dan jembatan tanpa batas untuk menciptakan Web Component standar.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "custom-components",
+    "dom-manipulation",
+    "element",
+    "jsx-syntax",
+    "virtual-dom"
+   ]
+  },
+  {
+   "name": "better-chatbot",
+   "url": "https://github.com/jhedev96/better-chatbot",
+   "text": "Just a Better Chatbot. Powered by MCP Client & Workflows.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Sleex",
+   "url": "https://github.com/jhedev96/Sleex",
+   "text": "The shell of the third desktop environement of AxOS",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "OpenCut",
+   "url": "https://github.com/jhedev96/OpenCut",
+   "text": "The open-source CapCut alternative",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "solaris",
+   "url": "https://github.com/jhedev96/solaris",
+   "text": "A 3D interactive, audiovisual solar system",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "tinyfilemanager",
+   "url": "https://github.com/jhedev96/tinyfilemanager",
+   "text": "Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "keenthemes-mega-bundle-1.1.6",
+   "url": "https://github.com/jhedev96/keenthemes-mega-bundle-1.1.6",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "winlator",
+   "url": "https://github.com/jhedev96/winlator",
+   "text": "Android application for running Windows applications with Wine and Box86/Box64",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Apk-Editor-Tools-For-Developer",
+   "url": "https://github.com/jhedev96/Apk-Editor-Tools-For-Developer",
+   "text": "Berbagai Macam Aplikasi Yang Membantu Membuat APK",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "geo-three",
+   "url": "https://github.com/jhedev96/geo-three",
+   "text": "Tile based geographic world map visualization library for threejs",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "code-server",
+   "url": "https://github.com/jhedev96/code-server",
+   "text": "VS Code in the browser",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "HTML5-Drumkit",
+   "url": "https://github.com/jhedev96/HTML5-Drumkit",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "HTML5-FluppyBird-Reborn",
+   "url": "https://github.com/jhedev96/HTML5-FluppyBird-Reborn",
+   "text": "Fluppy Bird Reborn :)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "html5-game-fluppybird",
+    "floppy-bird-clone",
+    "html5"
+   ]
+  },
+  {
+   "name": "terminal-portfolio",
+   "url": "https://github.com/jhedev96/terminal-portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "httpIvenontory-managment-system",
+   "url": "https://github.com/jhedev96/httpIvenontory-managment-system",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "3D-Mars-landing-page",
+   "url": "https://github.com/jhedev96/3D-Mars-landing-page",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "rainbowkit-demo",
+   "url": "https://github.com/jhedev96/rainbowkit-demo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Craddle-3D-Pure-CSS-Only",
+   "url": "https://github.com/jhedev96/Craddle-3D-Pure-CSS-Only",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Keep-It-Organised",
+   "url": "https://github.com/jhedev96/Keep-It-Organised",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MonitorDroid",
+   "url": "https://github.com/jhedev96/MonitorDroid",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "awesome-selfhosted",
+   "url": "https://github.com/jhedev96/awesome-selfhosted",
+   "text": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "interstellar-armada-webgl",
+   "url": "https://github.com/jhedev96/interstellar-armada-webgl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "netflix-clone",
+   "url": "https://github.com/jhedev96/netflix-clone",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "gfonts",
+   "url": "https://github.com/jhedev96/gfonts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Files",
+   "url": "https://github.com/jhedev96/Files",
+   "text": "Building the best File Manager for Windows",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "my-cdn",
+   "url": "https://github.com/jhedev96/my-cdn",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "phpstan",
+   "url": "https://github.com/jhedev96/phpstan",
+   "text": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "demosify",
+   "url": "https://github.com/jhedev96/demosify",
+   "text": "Create a playground to show the demos of your projects.",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "XBackBone",
+   "url": "https://github.com/jhedev96/XBackBone",
+   "text": "A lightweight file manager with full ShareX, Screencloud support and more",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Cosmos3D",
+   "url": "https://github.com/jhedev96/Cosmos3D",
+   "text": "Ciamis 3D HTML5 Game",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MaterialFiles",
+   "url": "https://github.com/jhedev96/MaterialFiles",
+   "text": "Material Design file manager for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "jhedev96.github.io",
+   "url": "https://github.com/jhedev96/jhedev96.github.io",
+   "text": "My  Home Page",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "PHP-NIK-Indonesia",
+   "url": "https://github.com/jhedev96/PHP-NIK-Indonesia",
+   "text": "PHP API NIK Indonesia",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "USB-PasswordStealer",
+   "url": "https://github.com/jhedev96/USB-PasswordStealer",
+   "text": "USB/CD/DVD Auto run password stealer",
+   "fork": false,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "LaravelDrive-App",
+   "url": "https://github.com/jhedev96/LaravelDrive-App",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Youtube-Converter-to-MP3",
+   "url": "https://github.com/jhedev96/Youtube-Converter-to-MP3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}

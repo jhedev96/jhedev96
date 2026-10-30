@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/jhedev96/olp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-olp-dark.svg"><img src="assets/project-olp-light.svg" width="49%" alt="olp"></picture></a>&nbsp;<a href="https://github.com/jhedev96/JS-Hero"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-js-hero-dark.svg"><img src="assets/project-js-hero-light.svg" width="49%" alt="JS-Hero"></picture></a>
-
-<a href="https://github.com/jhedev96/anime"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-dark.svg"><img src="assets/project-anime-light.svg" width="49%" alt="anime"></picture></a>&nbsp;<a href="https://github.com/jhedev96/3D-Maze-Labirin-HTML5-Game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3d-maze-labirin-html5-game-dark.svg"><img src="assets/project-3d-maze-labirin-html5-game-light.svg" width="49%" alt="3D-Maze-Labirin-HTML5-Game"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

@@ -1,5 +1,5 @@
 {
- "key": "bf1727fb",
+ "key": "78ea62da",
  "stars": 58,
  "contributions": 444,
  "repos": 95,
@@ -138,9 +138,13 @@
    {
     "c": 3,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {

@@ -1,5 +1,5 @@
 {
- "key": "4608f2db",
+ "key": "ffdc2dba",
  "stars": 58,
  "contributions": 482,
  "repos": 96,
@@ -133,9 +133,13 @@
    {
     "c": 6,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
